@@ -1,7 +1,9 @@
+
 <div align="center">
-<img src="fastlane/metadata/android/en-US/images/icon.png" width="160" height="160" style="display: block; margin: 0 auto"/>
-<h1>Meld</h1>
-<p>A music client that fuses Spotify and YouTube Music into one seamless experience</p>
+  <h1>TuneRipple</h1>
+  <p>Your music. Your flow.</p>
+</div>
+
 
 [![Latest release](https://img.shields.io/github/v/release/FrancescoGrazioso/Meld?style=for-the-badge)](https://github.com/FrancescoGrazioso/Meld/releases/latest)
 [![GitHub license](https://img.shields.io/github/license/FrancescoGrazioso/Meld?style=for-the-badge)](https://github.com/FrancescoGrazioso/Meld/blob/main/LICENSE)
