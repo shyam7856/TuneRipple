@@ -1,15 +1,18 @@
 
+
 <div align="center">
+  <img src="tuneripple-logo.png" width="160" alt="TuneRipple Logo">
   <h1>TuneRipple</h1>
   <p>Your music. Your flow.</p>
-</div>
+ </div> 
+
 
 
 [![Latest release](https://img.shields.io/github/v/release/FrancescoGrazioso/Meld?style=for-the-badge)](https://github.com/FrancescoGrazioso/Meld/releases/latest)
 [![GitHub license](https://img.shields.io/github/license/FrancescoGrazioso/Meld?style=for-the-badge)](https://github.com/FrancescoGrazioso/Meld/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/FrancescoGrazioso/Meld/total?style=for-the-badge)](https://github.com/FrancescoGrazioso/Meld/releases)
 
-</div>
+
 
 ## What is Meld?
 
